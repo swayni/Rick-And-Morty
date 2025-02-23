@@ -2,7 +2,7 @@
 - Clean Architecture,
 - Coroutines,
 - Retrofit,
-- Room,
+- Realm,
 - Coil,
 - DI (Dagger-Hilt),
 - ViewBinding
